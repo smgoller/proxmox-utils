@@ -7,7 +7,7 @@
 # TESTED ON UBUNTU 20.04 LTS
 
 # SETUP & RUN
-# curl -sL https://raw.githubusercontent.com/smgoller/proxmox-utils/scripts/master/prepare-ubuntu-20.04-template-proxmox.sh | sudo -E bash -
+# curl -sL https://raw.githubusercontent.com/smgoller/proxmox-utils/master/scripts/prepare-ubuntu-20.04-template-proxmox.sh | sudo -E bash -
 
 if [ `id -u` -ne 0 ]; then
 	echo Need sudo
